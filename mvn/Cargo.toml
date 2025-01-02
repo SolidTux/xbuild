@@ -1,6 +1,6 @@
 [package]
 name = "mvn"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2021"
 description = "Library for fetching and resolving maven dependencies."
 repository = "https://github.com/rust-mobile/xbuild"
